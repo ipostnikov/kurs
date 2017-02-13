@@ -18,7 +18,7 @@ namespace KursovoiProject
             else return true;
         }
         /// <summary>
-        /// 
+        /// test comment
         /// </summary>
         /// <param name="path"> path to file </param>
         /// <param name="v"> vertex </param>
