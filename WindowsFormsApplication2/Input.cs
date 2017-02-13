@@ -17,7 +17,7 @@ namespace KursovoiProject
                 return false;
             else return true;
         }
-        /// <summary>
+        /// <summa
         /// test comment
         /// </summary>
         /// <param name="path"> path to file </param>
